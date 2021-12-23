@@ -20,3 +20,5 @@ Hackintosh / Mac OS 12 EFI/OC 0.7.6
 注意！
 
 由于Mac下只能识别最多15个接口，故删除前置与后置type-c，与后置面板网卡旁的两个USB3.2，其他接口均可正常工作！
+
+![7E13FDAA-036A-4A0C-96A5-2C9F33DD6C9C](https://user-images.githubusercontent.com/63736726/147197812-392fb5b3-4dbb-41f5-ba7c-9f8ba7e6eb4c.png)
