@@ -1,5 +1,5 @@
 # GIGABYTE-Z490-AORUS-PRO-AX-i5-10600KF-RX-6600XT
-![7E13FDAA-036A-4A0C-96A5-2C9F33DD6C9C](https://user-images.githubusercontent.com/63736726/147197853-6b49faac-507d-45b8-b3bf-41d87e6d1130.png)
+               ![7E13FDAA-036A-4A0C-96A5-2C9F33DD6C9C](https://user-images.githubusercontent.com/63736726/147197853-6b49faac-507d-45b8-b3bf-41d87e6d1130.png)
 
 
 
